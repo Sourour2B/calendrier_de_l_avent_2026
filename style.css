@@ -11,7 +11,7 @@ body {
     font-family: 'Comic Sans MS', Comic Sans, cursive ;
     color: white;
     /* Fond d'écran chaleureux et joyeux */
-    background-image: url('assets/background.jpg'); 
+    background-image: url('calendrier_de_l_avent_2026/background.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -236,6 +236,7 @@ body {
     font-size: 1.2em;
     vertical-align: middle;
 }
+
 
 
 
